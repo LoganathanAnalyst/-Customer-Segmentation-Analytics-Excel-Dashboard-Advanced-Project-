@@ -1,12 +1,5 @@
 # 📊 Customer Segmentation Analytics – Excel Dashboard (Advanced Project)
 
-![Excel](https://img.shields.io/badge/Built%20With-Excel%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Size](https://img.shields.io/badge/Records-500%2B-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-Customer%20Intelligence-orange?style=for-the-badge)
-
----
-
 ## 📘 Project Overview
 This project delivers a **fully-built, analytics-grade Customer Segmentation Dashboard** using **Microsoft Excel**.  
 It applies structured data modeling, demographic profiling, income stratification, tenure analysis, and segment visualization to help businesses understand their customer population and make strategic decisions.
@@ -48,6 +41,13 @@ The dashboard provides **real-time segmentation**, **dynamic slice-based explora
 - **Regional & Demographic Breakdown**  
 - **KPI Block** for Business Summary  
 - **Professionally Designed Charts & Layout**
+
+---
+
+![Excel](https://img.shields.io/badge/Built%20With-Excel%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Size](https://img.shields.io/badge/Records-500%2B-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Customer%20Intelligence-orange?style=for-the-badge)
 
 ---
 
@@ -131,8 +131,23 @@ The refined dataset includes the following high-impact fields:
 
 ---
 
-## 👤 Author
-**Logu** – Data Analyst (Excel | Power BI | SQL | Data Modeling)  
-**GitHub:** _your-github-name_  
-If you find this useful, ⭐ star the repository!
+## 🤝 Contributing
+Have suggestions or improvements?  
+Feel free to open issues or submit pull requests.
+
+---
+
+## ⭐ Support This Project
+If you liked this dashboard, please give this repository a ⭐ on GitHub.  
+Your support encourages more Power BI projects!
+
+---
+
+## 👨‍💻 About the Author
+Hi, I’m **Loganathan**, a Data Analyst & Power BI Developer focused on turning raw data into actionable insights.  
+Thank you for reviewing this project! 🚀📊  
+
+📩 **Contact:**  
+**loganathanvizasia@gmail.com**
+
 
