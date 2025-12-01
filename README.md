@@ -51,6 +51,9 @@ The dashboard provides **real-time segmentation**, **dynamic slice-based explora
 
 ---
 
+<img width="675" height="445" alt="customer das" src="https://github.com/user-attachments/assets/29223bbe-31f6-4b18-a911-05bf6e8511ed" />
+
+
 ## 🗂 Data Model
 The refined dataset includes the following high-impact fields:
 
